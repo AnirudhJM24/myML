@@ -1,5 +1,5 @@
-# myML
-a bunch of examples, projects and exercises I did as i learnt ML
+# petal vs sepal
+
 Here we use sklearns iris dataset to predict the different type of irises using the following factors
 1.sepal length vs sepal width
 2.petal length vs petal width
